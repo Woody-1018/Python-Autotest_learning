@@ -1,0 +1,34 @@
+1502813132252	geckodriver	INFO	geckodriver 0.18.0
+1502813132263	geckodriver	INFO	Listening on 127.0.0.1:18186
+1502813134526	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502813145311	Marionette	INFO	Listening on port 18192
+1502813146346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E4%BA%AC&json=1&p=3&sid=24054_1425_19033_21087_17001_20719&req=2&csor=1&cb=jQuery110202860063574137839_1502813152250&_=1502813152252, line 1: TypeError: jQuery110202860063574137839_1502813152250 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E4%BA%AC%E4%B8%9C&json=1&p=3&sid=24054_1425_19033_21087_17001_20719&req=2&csor=2&pwd=%E4%BA%AC&cb=jQuery110202860063574137839_1502813152250&_=1502813152253, line 1: TypeError: jQuery110202860063574137839_1502813152250 is not a function
+1502932330927	geckodriver	INFO	geckodriver 0.18.0
+1502932330958	geckodriver	INFO	Listening on 127.0.0.1:27661
+1502932333142	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502932340519	Marionette	INFO	Listening on port 27667
+1502932341186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502932404566	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502932426479	Marionette	INFO	Ceased listening
+1502964340704	geckodriver	INFO	geckodriver 0.18.0
+1502964340740	geckodriver	INFO	Listening on 127.0.0.1:20265
+1502964342901	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502964348491	Marionette	INFO	Listening on port 20272
+1502964349342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502964411620	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502964432964	Marionette	INFO	Ceased listening
+1502964518932	geckodriver	INFO	geckodriver 0.18.0
+1502964518946	geckodriver	INFO	Listening on 127.0.0.1:20440
+1502964520794	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502964526610	Marionette	INFO	Listening on port 20446
+1502964527305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502964535221	Marionette	INFO	Ceased listening
+1502965452737	geckodriver	INFO	geckodriver 0.18.0
+1502965452752	geckodriver	INFO	Listening on 127.0.0.1:22703
+1502965454749	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502965460087	Marionette	INFO	Listening on port 22711
+1502965460541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502965523450	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502965949267	Marionette	INFO	Ceased listening
