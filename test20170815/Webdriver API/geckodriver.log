@@ -1,0 +1,65 @@
+1503397353211	geckodriver	INFO	geckodriver 0.18.0
+1503397353226	geckodriver	INFO	Listening on 127.0.0.1:20921
+1503397355286	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503397363006	Marionette	INFO	Listening on port 20927
+1503397363609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503397427906	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503397798727	Marionette	INFO	Ceased listening
+0
+1503397511347	geckodriver	INFO	Listening on 127.0.0.1:21093
+1503397513328	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503397517625	Marionette	INFO	Listening on port 21100
+1503397518623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://im-x.jd.com/dsp/np?log=0eieOIjAFAS0K1ktGBdAyU75GEyuIlrm9hKat5u0Rj23veR05xOLJMafMAffO_FnTZEpQ00yi0cumC3bmnYRzR95Inb-hyASuyntLljUkBRHMLJX_pU7rirr23k1e4fAdV9JK2m3fMt7PsLTa72kyYUV1e_faTaPtxV8Gfh-u2Ms-X2ORNCMV08sc2HJ_6SZuHQZfxIXHqrGJ8uHhN_U94J6cBIQuo3Z3ScI9B4CkG80sQ-qEJgRL0Ww-AFg1MA1Mx9pr53hnPua4dz49_JwG85WLJUME0_AhoP-4bCn70v5xMv8rfetU3hKo0KdusprVJC4fmk91_R3OXViJz15i0lEmdP0baDM4DmbvNQ8L2TiLEX2bO_alIBTL4fopq_sKJ1N1U6rkZXNSIFocJu8kUmJQu41Xc_U-GxfSsLbrIXW3_iD0ZGaxdcWF_hezBK6H_AXhEexET6b-qB_hfuuznbD8riwcnfRVv5v__VSFZKC6W8PaT-GZMuAYnnyzLWo3u6xu2QWS1jIYCY5j66dzjTstjd7qC5w8_aY5Ba_UnTCg_9w2xoGCCRhWT2iwpHYQAdioBlockREMhz2BrJfeiaHfssEaRrCixW9NT7p2N__O8z5O81y73tb-JTbwXa6A98mwwLRsPS65XkqDv_pzQ3uGiNJIVr6uJgtGiQmkFg-n2sDEgWiLQsd3rIUTt6XSTrUeEfZLXTsZm1Kq8j0Wr9SiLuKtcPxme5At1DiC5lV7cozwJw_14Bg5iivd670pJYXXhR9ne0Tfenh9_cqUdQoevaS-TCkk7ERnUAtnuIqGBRKprF8faQtaDHMuscLvJmdSP3EXPkTYR6fm6OkozIUrLgtARJmtX0QHp4HFpON2U6YG5htCCQo5p5ptVr1oCeFILvhkgCMUXSRkW4snhhBbW91IlINFjQ75H17CWK0UVgnPRCdJgEbupc1AP_wjgIVtfajI0dG-c9KXZktV1yi6Zylf8mf9tlsyNFtdhscfYVfKJG9TOORGJhrZUdnGKv0uJcIqCwxjljADrBW__wEpYAmACBJhMqmZekCEqXZwdzXOq0NEKmnX-PTpbp5byD04d54bfcIzuw6r1pOX12Y-M72Wdv2qG_MCQHecXBmrHNbI-GAomb_s6CUkllnfv4RlVMpNH_ECcPkLfCbvBCQTHfdjMthgRyP2b09KyMVEQDS4pR4D2o-fXfFGX6K&v=407, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://im-x.jd.com/dsp/np?log=SJuW-con805mB2WZL30FLE49MoVKtYWkGTIILVjeetoGtgQavOJOAPoS5LmQeuU2dS_Pgw_1jkWy-_mrRw1LIAwLaflNsgpr5tV0ArsItX9xfxK4RJIePkih_Y7FiY1u6Y2hEa5ok5fMjI7UTRhjWcwmP_z5ZJjF77-GgmP8QaZSK7QOUMPnn85IoY2Ew6u09fLvOwGmG-fw-rMuILmk0YoLqzI_MiNFg_fx2aG8w6Qi9NTGzaof7is1RSm9ymBd-guZsvhvG4kQgVwnI35Fuy70hVnsmhw-QmRibGXUN93SbkPSkm8IF_5ZDbCTk2Q_S4IwDMAyxc2A2sSluB1NQaMXyV3xUshhGMs0U9fSDIC-FnXsjY9KxumrDVYLihjJK7Byh9ZryhH2k46yCOdzEIdQ-GIZv7E2LK1ez0JszBulSjiTKF8bPbzUUdUdqaFSfzql_xOg3R1y0M4e5ripKtKVY7K5weF_gHQkBvB9ajF2BdWt3QVMjb2GfeFRQdSxz1QkSRzzx21S2y-95933u05RzCAbFzCbERVV6YJAUYT_EV6BZ-1suqGMvpnzwOYYUJgJxJzSXcx2a6jFCazg3xkrQFRf_-nDfQqQ1qj96aJcPFj33WrKjlJKQnmdVe9I-pHCHr6FfybJuv1nKFSh9sypjbfWpSlEDcOl04XHxegWfZhoRLvJMtNTwf5zCzQaBO7TP7CtU9PZMvOSzClPC0Vr-1xNHtufdcDKaq4AGD9bUJizTxuwAidr1m-FzZTtNOcajmi7pFjPo4ThgyvWhhqZJ8w59kffd5WFDUdgWrIA2LrD7BfVoym_L5sKWVx_-BwKhM4D1BH-PFDEcg6pMhH1DcBWd6Av_1rP1J27BtvyXYO44AjrDo-hY-M5aU55MNurFaQcUMRxBK-__dbv2jTlyDUF_76m8D-hBJhIY39nqYzlMLEzL-0urrBbyphUaYWcvb25Y9j9al85xAE0H1IvweAdZoP9mpz7S_ENZUd_SRUTwgnIhJgaosN1qq6_bSYSBVbIcZyySGrJ0J-pmkje6i-SLN29-8zgLBYP3QFuXFzkm6xMQkXTCjc185zkv-Tpu2zPVhRXJcpbqGOSuLKQNvhdX0QKMlLcT90tWkTVrvhVcdPqH4WoLrZV5xrd5_j7gHoZkQ6nFiW-yYFjZ_kk-qfCzVzTKljWecrtLUoCrlxqvW1fDHdhwZNeOFYqlzGpc5Kq3bbzjJXMoRqPBA&v=407, line 1: SyntaxError: expected expression, got '<'
+1503397711477	geckodriver	INFO	geckodriver 0.18.0
+1503397711493	geckodriver	INFO	Listening on 127.0.0.1:21599
+1503397713552	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503397717672	Marionette	INFO	Listening on port 21605
+1503397718038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://im-x.jd.com/dsp/np?log=umjtYKwAciyH4MNEX1QlTMgcLu59autOxcpBlx0rvdq4bgHyyXGougtTY7EgjvaWD2vznm6ToX8uFRMoWevP1qbYC_waYSSSmfSfxIlzBjPD83rOKF36z9M1-RD1B0W2Am0Htjcu0ynA9AzL8jGSVxiufHhQPNE2IVjxOs2VasuLPiC5oLAIZplBoaCP2FIyLglJMeDy4skyZ25B-fXalcflIZ9iHx2F-wIpf2OAZ_V4u66zR8OcRqj94FKV52dwJTJiBkop1EZBDMYcq-HLXTWCQ6MALMptBBdBRLoO4Ir3Ln9hE7Z-AggmMu1sdyKx1jnIDqYOpv828W8RTcr61CZrH4uCIGUIBQsTymwBDXPPtuX8Hm3ZJoyUMbd5A2D_vzTg4_dVKXY6dUqM0YYOAOBwKt75KlzuWnbp9dLlT8JOTp7dJeOgoNUTfBG_8oCJ37juRt3oas4K2eYSolWaIussGwfAey8S6mH7xGibjD8AccL5nODtJBNzw15RQBX9aS63FFkHUifd5l7pdfhFty7tJIjePuw6wKEG-tV-1b7AjsVUjYhURyRJ6LjcN9XYY_7tNz7gum9uMJOJ1GSPyKPtGyiDxvyQOXtPzzWyE8oQ2qh3tPzeD-wxH-mD0259nG28IUEXqsXJGsJ-vfsE92TlszdcU4AP7BgMUuLsjy1MQEwrV19L1FMg0k8CdTczlNQwmhWQk5DJZWVj5kHw65bO-Z2DDTUCI_cRswEP6rj-sQC2GwH3x63VLTCscgOFbTbLFedOnQu_2GqzOZ4K1T1QIme13E1hZAAAd9qZC-sYBQMtD7sKd2FXpwQi99-cS1Q31WEMR_v_T_E7a7IyKrKULMfD4fzkl_3HNcD_dfhN2nIb_5cyBLkUbkDjzpvthrl0uuT2shVVbdFDe-TknlKCLoBHhrcePdbK6yAySxVebrX80QtwkTGnBt0nRdyG2FwhGNKDSS5hcwBLbIYqXvI1_RAzCWUyDIk40aVrQNX20mQ5JPjfFbNHy44SM5hdS97I6eoTfzeCbsNgG1B96GY2FQP1fvhmwBWn75M1Tw0oTIBee6FC0r8LiUuf1_KjStL3jEN581Y3u7MSkz-0OW-mZQ8HPCAjIyWZr2fRfgeUIEBffQ96SzwEW53aDNB_kMYgViRseZGEQEyUJuoPZ4ykCUVVX2VQOQ9hcQRoS6EWywJf_Mlvr8nwh-dYM5qA9kGXmtG30SlwRgv35-9tvA&v=407, line 1: SyntaxError: expected expression, got '<'
+1503397779658	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503478645643	geckodriver	INFO	geckodriver 0.18.0
+1503478645690	geckodriver	INFO	Listening on 127.0.0.1:14294
+1503478647701	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503478655948	Marionette	INFO	Listening on port 14302
+1503478656475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503478718916	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1503478719296	Marionette	INFO	Ceased listening
+1503478757380	geckodriver	INFO	geckodriver 0.18.0
+1503478757396	geckodriver	INFO	Listening on 127.0.0.1:14618
+1503478759417	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503478763816	Marionette	INFO	Listening on port 14631
+1503478764712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503478828747	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503479493664	Marionette	INFO	Ceased listening
+1503572176052	geckodriver	INFO	geckodriver 0.18.0
+1503572176085	geckodriver	INFO	Listening on 127.0.0.1:45569
+1503572178106	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503572183099	Marionette	INFO	Listening on port 45583
+1503572183766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503572245402	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503572246317	Marionette	INFO	Ceased listening
+1503572379475	geckodriver	INFO	geckodriver 0.18.0
+1503572379485	geckodriver	INFO	Listening on 127.0.0.1:46118
+1503572381506	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503572387838	Marionette	INFO	Listening on port 46124
+1503572388828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503572396130	Marionette	INFO	Ceased listening
+1503572672448	geckodriver	INFO	geckodriver 0.18.0
+1503572672457	geckodriver	INFO	Listening on 127.0.0.1:46888
+1503572674503	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503572678587	Marionette	INFO	Listening on port 46897
+1503572678914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503572742039	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503572769934	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503572727382	Marionette	INFO	Listening on port 47032
+1503572728431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503572739420	Marionette	INFO	Ceased listening

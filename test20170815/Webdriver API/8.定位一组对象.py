@@ -13,10 +13,19 @@ import time
 driver = webdriver.Chrome()
 file_path = "file:///" + os.path.abspath("checkbox.html")
 driver.get(file_path)
-inputs = driver.find_elements_by_tag_name("input")
+checkbox = driver.find_elements_by_tag_name("input")
 time.sleep(3)
-for check in inputs:
-    if check.get_attribute("type") == "checkbox":
-        check.click()
+for checkbox in checkbox:
+    if checkbox.get_attribute("type") == "checkbox":
+        checkbox.click()
 time.sleep(3)
+
+# 打印checkbox 数量
+print(len(driver.find_elements_by_tag_name("input")))
+
+# 取消勾选最后一个复选框
+driver.find_elements_by_tag_name("input").pop().click()
+
+time.sleep(3)
+
 driver.quit()
