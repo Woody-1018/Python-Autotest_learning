@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 driver.get("https://www.baidu.com/")
 # # search_setting = driver.find_element_by_xpath("//*[@id='u1']/a[8]")
 # search_setting = driver.find_element_by_css_selector("#u1 > a.pf")
