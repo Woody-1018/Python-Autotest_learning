@@ -9,6 +9,8 @@ driver = webdriver.Chrome()
 driver.get("https://www.baidu.com")
 # 最大化窗口
 driver.maximize_window()
+# 浏览器刷新
+driver.refresh()
 # 等待时间
 time.sleep(5)
 # 打印信息

@@ -63,3 +63,58 @@ nette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with ar
 1503572727382	Marionette	INFO	Listening on port 47032
 1503572728431	Marionette	WARN	TLS certificate errors will be ignored for this session
 1503572739420	Marionette	INFO	Ceased listening
+1503770440195	geckodriver	INFO	geckodriver 0.18.0
+1503770440258	geckodriver	INFO	Listening on 127.0.0.1:14064
+1503770442286	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503770451234	Marionette	INFO	Listening on port 14070
+1503770451925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503977123964	geckodriver	INFO	geckodriver 0.18.0
+1503977124024	geckodriver	INFO	Listening on 127.0.0.1:1885
+1503977125978	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503977130593	Marionette	INFO	Listening on port 1892
+1503977131259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+1503977195549	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=787be184eaf8, line 1: ReferenceError: $ is not defined
+JavaScript*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503978118905	Marionette	INFO	Ceased listening
+erenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 71: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 82: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 285: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 321: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 922: TypeError: StackExchange.ifUsing is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 933: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 1001: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 1042: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 1315: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/22034834/python-attributeerror-list-object-has-no-attribute, line 1536: ReferenceError: $ is not defined
+JavaScript error: http://grokbase.com/cc/jq/p/jquery.hotkeys.js, line 99: ReferenceError: jQuery is not defined
+JavaScript error: http://grokbase.com/cc/jq/qtip2/jquery.qtip2.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://grokbase.com/t/gg/selenium-users/126vgfvpfe/attributeerror-list-object-has-no-attribute-click-selenium-webdriver, line 17: ReferenceError: $ is not defined
+JavaScript error: http://grokbase.com/t/gg/selenium-users/126vgfvpfe/attributeerror-list-object-has-no-attribute-click-selenium-webdriver, line 281: ReferenceError: $ is not defined
+JavaScript error: http://grokbase.com/t/gg/selenium-users/126vgfvpfe/attributeerror-list-object-has-no-attribute-click-selenium-webdriver, line 411: ReferenceError: $ is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503978113202	Marionette	INFO	Ceased listening
+638403	Marionette	INFO	Listening on port 2438
+1503977638883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503977702679	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503978116271	Marionette	INFO	Ceased listening
+1503978397839	geckodriver	INFO	geckodriver 0.18.0
+1503978397848	geckodriver	INFO	Listening on 127.0.0.1:3511
+1503978399904	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503978404388	Marionette	INFO	Listening on port 3517
+1503978405135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503978469244	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503978765597	Marionette	INFO	Ceased listening

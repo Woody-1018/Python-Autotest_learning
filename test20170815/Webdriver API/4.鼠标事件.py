@@ -10,6 +10,7 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
+
 # 定义浏览器
 driver = webdriver.Chrome()
 # 打开燃之
@@ -45,6 +46,7 @@ ActionChains(driver).double_click(double_click).perform()
 time.sleep(3)
 ActionChains(driver).double_click(double_click).perform()
 time.sleep(3)
+
 
 
 
